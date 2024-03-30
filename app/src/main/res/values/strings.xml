@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="score_text_template">Your score is %d out of %d</string>
+    <string name="enter_name_warning">"Please enter a name."</string>
+    <string name="finish_button_text">FINISH</string>
+    <string name="submit_button_text">SUBMIT</string>
+    <string name="go_to_next_question_text">"GO TO NEXT QUESTION"</string>
+
+    <string name="question_for_quiz">"What country does this flag belong to?"</string>
+    <!-- Options for quiz questions -->
+    <string name="option_argentina">Argentina</string>
+    <string name="option_australia">Australia</string>
+    <string name="option_turkey">Turkey</string>
+    <string name="option_austria">Austria</string>
+    <string name="option_angola">Angola</string>
+    <string name="option_armenia">Armenia</string>
+    <string name="option_belarus">Belarus</string>
+    <string name="option_belize">Belize</string>
+    <string name="option_brunei">Brunei</string>
+    <string name="option_brazil">Brazil</string>
+    <string name="option_bahamas">Bahamas</string>
+    <string name="option_belgium">Belgium</string>
+    <string name="option_barbados">Barbados</string>
+    <string name="option_gabon">Gabon</string>
+    <string name="option_france">France</string>
+    <string name="option_fiji">Fiji</string>
+    <string name="option_finland">Finland</string>
+    <string name="option_germany">Germany</string>
+    <string name="option_georgia">Georgia</string>
+    <string name="option_greece">Greece</string>
+    <string name="option_none_of_these">None of these</string>
+    <string name="option_dominica">Dominica</string>
+    <string name="option_egypt">Egypt</string>
+    <string name="option_denmark">Denmark</string>
+    <string name="option_ethiopia">Ethiopia</string>
+    <string name="option_ireland">Ireland</string>
+    <string name="option_iran">Iran</string>
+    <string name="option_hungary">Hungary</string>
+    <string name="option_india">India</string>
+    <string name="option_tuvalu">Tuvalu</string>
+    <string name="option_united_states_of_america">United States of America</string>
+    <string name="option_kuwait">Kuwait</string>
+    <string name="option_jordan">Jordan</string>
+    <string name="option_sudan">Sudan</string>
+    <string name="option_palestine">Palestine</string>
+    <string name="option_new_zealand">New Zealand</string>
+    <string name="_quiz_app_header">Quiz App</string>
+    <string name="_welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="name">Name</string>
+    <string name="start_button_text">START</string>
+    <string name="result_text">Result</string>
+    <string name="congratulations_text">Hey, Congratulations!</string>
+    <string name="flag">FLAG</string>
+</resources>
